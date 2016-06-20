@@ -130,9 +130,8 @@ nav{
 	width:960px;
 	margin: 0px auto 0px;
 	bottom: auto;
-    position: fixed;
-    
-    z-index: 100;
+  position: fixed;  
+  z-index: 100;
     
     
 	
@@ -219,7 +218,8 @@ a{margin-top:-45px;}
 	
 #lambang {
     margin: 0px auto;
-    padding: 0px 10px;
+	padding-top: 20px;
+	padding-left: 20px;
 }
 
 
@@ -273,7 +273,9 @@ a{margin-top:-45px;}
 	margin-top:20px;
 	height:290px;
 }
-
+.kiri .main{
+	margin: 10px;
+}
 #isi{margin-top: 0px; background: #fff;}
 
 #judul{
