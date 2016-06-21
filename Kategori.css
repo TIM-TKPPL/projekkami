@@ -26,15 +26,15 @@ footer,.header {
   float: left;
 }
 
-.gambar#x {
+.gambar #x {
   margin-top: -150px;
 }
 
-.gambar#y {
+.gambar #y {
   margin-top: 80px;
 }
   
-.gambar#wall {
+.gambar #wall {
   pad-left: 10px;
 }
 
