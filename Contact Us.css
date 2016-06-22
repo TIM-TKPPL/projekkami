@@ -34,8 +34,10 @@ footer,.header {
   margin-top: 60px;
 }
   
-.gambar#wall {
+.gambar img{
   pad-left: 10px;
+  padding-bottom:20px; 
+  padding-top: 30px;
 }
 
 .text-info {
